@@ -1,4 +1,3 @@
-<img width="1916" height="1029" alt="ram_sam_4" src="https://github.com/user-attachments/assets/4d8df437-5a25-40d8-b233-3071a552c177" /># Ransomware
 Ransomware is malware that employs encryption to hold a victim’s information at ransom. A user or organization’s critical data is encrypted so that they cannot access files, databases, or applications. A ransom is then demanded to provide access.
 
 # Attack Tactics
