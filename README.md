@@ -23,4 +23,5 @@ This is for educational purposes. Please, do not harm people.
 <img width="1550" height="979" alt="ram_sam_7" src="https://github.com/user-attachments/assets/c45b9e6e-607d-4613-b248-511e5fbe1d3a" />
 
 ## Folder Decryption
+<img width="1222" height="640" alt="ram_sam_6" src="https://github.com/user-attachments/assets/55d7e496-8fd5-4d9a-ba18-7943b099eca8" />
 <img width="1916" height="628" alt="ram_sam_8" src="https://github.com/user-attachments/assets/cc0b1b51-06ad-40e7-a36e-62909618acb6" />
